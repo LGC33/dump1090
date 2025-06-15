@@ -34,7 +34,7 @@ Install the librtlsdr development files before building. On Debian/Ubuntu
 systems you can install them with:
 
     sudo apt-get update
-    sudo apt-get install librtlsdr-dev
+    sudo apt-get install -y librtlsdr-dev
 
 Then type "make".
 
