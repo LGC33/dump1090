@@ -30,7 +30,13 @@ available, developed by MalcolmRobb.
 Installation
 ---
 
-Type "make".
+Install the librtlsdr development files before building. On Debian/Ubuntu
+systems you can install them with:
+
+    sudo apt-get update
+    sudo apt-get install librtlsdr-dev
+
+Then type "make".
 
 Normal usage
 ---
